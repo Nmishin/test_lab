@@ -1,6 +1,5 @@
-echo "hello"
-#!/bin/bashdd
-
-echo "hello"
 echo "lalala"
 echo "hello"
+echo "lalala"
+echo "lalala"
+echo "lalala"

@@ -1,3 +1,3 @@
-#!/bin/bashdd
+#!/bin/bash
 
 echo "lalala"
